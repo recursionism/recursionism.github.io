@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Unica+One|Slabo|Share+Tech+Mono');
+
+html {
+    font-size: 14px;
+}
+
+h1 {
+    font-family: 'Unica One', serif;
+    letter-spacing: 0;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+body {
+    font-family: 'Slabo', sans-serif;
+    font-weight: 400;
+}
+
+blockquote {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 2.0rem;
+}
